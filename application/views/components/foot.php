@@ -2,8 +2,8 @@
     <div class="container">
         <div class="row">
             <div class="col-xl-lg-3 col-md-3 col-sm-10">
-                <h5><a class="text-white" href="<?= base_url(); ?>">HIMS | <small>Logo</small></a></h5>
-                <p class="mt-4 text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam fugit praesentium ullam eius tempore dolorem quidem maiores quam sapiente eum minus!</p>
+                <a href="<?= base_url(); ?>"><img class="mx-5" src="<?= base_url('assets/img/hims-logo.png'); ?>" alt="HIMS logo" style="width: 120px;"></a>
+                <p class="mt-4">Something about HIMS will be displayed here...</p>
             </div>
             <div class="col-xl-lg-3 col-md-3 col-sm-10">
                 <h5>Quick Links</h5>
