@@ -1,7 +1,7 @@
 <div class="jumbotron jumbotron-fluid text-center bg-dark text-white">
   <div class="container">
-    <h1 class="display-4 font-weight-bold">Hafeez Institute of Medical Sciences</h1>
-    <p class="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+    <h1 class="display-5 font-weight-bold">Hafeez Institute of Medical Sciences</h1>
+    <p class="lead">Affiliated with University of Azad Jummu and Kashmir (Muzaffarabad)</p>
   </div>
 </div>
 <div class="container-fluid">
@@ -49,16 +49,111 @@
         <div class="col-xl-lg-6 col-md-4 col-sm-12">
             <div class="card">
                 <div class="card-body">
-                    <h5 class="card-title">Special title treatment</h5>
-                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                    <h5 class="card-title">News Section</h5>
+                    <p class="card-text">Admission notifications will be diplayed here...</p>
                 </div>
             </div><br>
             <div class="card">
                 <div class="card-body">
-                    <h5 class="card-title">Special title treatment</h5>
-                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                    <h5 class="card-title">News Section</h5>
+                    <p class="card-text">Admission notifications will be displayed here...</p>
+                </div>
+            </div><br>
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">News Section</h5>
+                    <p class="card-text">Admission notifications will be displayed here...</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row mb-4">
+        <div class="col-xl-lg-6 col-md-6 col-sm-10">
+            <h2 class="display-5 font-weight-bold">Founder Thoughts</h2><hr>
+            <p class="text-justify">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae laboriosam delectus, error optio, aliquid sint voluptatem voluptas nostrum, soluta rerum culpa fuga modi nisi porro est dignissimos repellat officia quod?</p>
+        </div>
+    </div>
+    <div class="row mb-4">
+        <div class="col-xl-lg-6 col-md-6 col-sm-10">
+            <h2 class="display-5 font-weight-bold">Programs we Offer</h2><hr>
+            <div class="card-deck text-center">
+                <div class="card bg-secondary text-white">
+                    <h6 class="card-title mt-2">Doctor of Physical Therapy (DPT)</h6>
+                    <div class="card-body">
+                        <p class="card-text">5 years degree program</p>
+                    </div>
+                </div>
+                <div class="card bg-secondary text-white">
+                    <h6 class="card-title mt-2">BS Anaesthesia Technology</h6>
+                    <div class="card-body">
+                        <p class="card-text">4 years degree program</p>
+                    </div>
+                </div>
+                <div class="card bg-secondary text-white">
+                    <h6 class="card-title mt-2">BS Medical Lab Technology</h6>
+                    <div class="card-body">
+                        <p class="card-text">4 years degree program</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card-deck text-center mt-4">
+                <div class="card bg-secondary text-white">
+                    <h6 class="card-title mt-2">BS Cardiology Technology</h6>
+                    <div class="card-body">
+                        <p class="card-text">5 years degree program</p>
+                    </div>
+                </div>
+                <div class="card bg-secondary text-white">
+                    <h6 class="card-title mt-2">BS Emergency & Intensive Care Technology</h6>
+                    <div class="card-body">
+                        <p class="card-text">4 years degree program</p>
+                    </div>
+                </div>
+                <div class="card bg-secondary text-white">
+                    <h6 class="card-title mt-2">BS Imaging (Radiology) Technology</h6>
+                    <div class="card-body">
+                        <p class="card-text">4 years degree program</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card-deck text-center mt-4">
+                <div class="card bg-secondary text-white">
+                    <h6 class="card-title mt-2">BS Human Nutrition</h6>
+                    <div class="card-body">
+                        <p class="card-text">5 years degree program</p>
+                    </div>
+                </div>
+                <div class="card bg-secondary text-white">
+                    <h6 class="card-title mt-2">BS Operation Theatre Technology</h6>
+                    <div class="card-body">
+                        <p class="card-text">4 years degree program</p>
+                    </div>
+                </div>
+                <div class="card bg-secondary text-white">
+                    <h6 class="card-title mt-2">BS Psychology</h6>
+                    <div class="card-body">
+                        <p class="card-text">4 years degree program</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xl-lg-6 col-md-6 col-sm-10">
+            <h2 class="display-5 font-weight-bold">Salient Features</h2><hr>
+            <div class="card bg-dark">
+                <div class="card-body">
+                    <div class="alert alert-info">
+                        <strong>Eligibility!</strong><br>
+                       F.Sc (Pre Medical) with 50% marks or equivalent.
+                    </div>
+                    <ul class="text-white mt-4">
+                        <li>State of the art building.</li>
+                        <li>Fully equipped labs</li>
+                        <li>HEC approved curriclum</li>
+                        <li>Clinical training of students</li>
+                        <li>Highly qualified and experienced staff</li>
+                        <li>Transport facility available</li>
+                        <li>Scholarship available for deserving students</li>
+                    </ul>
                 </div>
             </div>
         </div>
