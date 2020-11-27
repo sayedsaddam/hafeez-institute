@@ -1,4 +1,4 @@
-<div class="jumbotron jumbotron-fluid text-center bg-dark text-white">
+<div class="jumbotron jumbotron-fluid text-center bg-info text-white">
   <div class="container">
     <h1 class="display-5 font-weight-bold">Hafeez Institute of Medical Sciences</h1>
     <p class="lead">Affiliated with University of Azad Jummu and Kashmir (Muzaffarabad)</p>
