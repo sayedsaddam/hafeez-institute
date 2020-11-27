@@ -17,8 +17,8 @@
             <div class="col-xl-lg-3 col-md-3 col-sm-10">
                 <h5>About Us</h5>
                 <ul style="list-style-type: none; padding-left: 3px; font-size: 15px;">
-                    <li><a href="" class="text-white">Vision</a></li>
-                    <li><a href="" class="text-white">Mission</a></li>
+                    <li><a href="<?= base_url('about'); ?>" class="text-white">Vision</a></li>
+                    <li><a href="<?= base_url('about'); ?>" class="text-white">Mission</a></li>
                 </ul>
             </div>
             <div class="col-xl-lg-3 col-md-3 col-sm-10">
