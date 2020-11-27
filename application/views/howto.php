@@ -43,4 +43,20 @@
             <p class="text-justify">Matric With Science Subject at least 50% marks. Atleast 30 Years age at time of admission (For Health Diploma Courses</p>
         </div>
     </div>
+    <div class="row mt-4">
+        <div class="col-xl-lg-12 col-md-12 col-sm-12">
+            <h1 class="display-4 font-weight-bold">Online Admissions | <small>Procedure for Online Apply.</small></h1><hr>
+            <ul>
+                <li>Download Admission Form, Read Form carefully and Fill Form Properly.</li>
+                <li>Attach Bank Draft of RS 1000/- on Account/Title of Hafeez Institute of Medical Sciences peshawar.</li>
+                <li>Attach Computerized CNIC of the Candidate and/or Gaurdian.</li>
+                <li>Attach Domicile of the Candidate.</li>
+                <li>Attach Matric DMC and Certificate (for F.Sc and Diploma Courses).</li>
+                <li>Attach Intermediate DMC and Certificate (for B.Sc and Master Courses).</li>
+                <li>Attach Migration Certificate (Not for Diploma and Short Courses).</li>
+                <li>Paste Six Passport size Photographs with white background.</li>
+                <li>Send All Documents To: Manager Admission Hafeez Institute of Medical Sciences, Gulshan Iqbal Colony Near Arbab Road Stop Peshawar.</li>
+            </ul>
+        </div>
+    </div>
 </div>
