@@ -26,10 +26,7 @@
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="<?= base_url('how-to-apply'); ?>">How to apply</a>
                     <a class="dropdown-item" href="<?= base_url('fee-structure'); ?>">Tuition Fee</a>
-                    <a class="dropdown-item" href="#">Refund Policy</a>
-                    <a class="dropdown-item" href="#">Scholarships</a>
-                    <a class="dropdown-item" href="#">Migrations</a>
-                    <a class="dropdown-item" href="#">Online Admissions</a>
+                    <a class="dropdown-item" href="<?= base_url('refund-policy'); ?>">Refund Policy</a>
                 </div>
             </li>
             <li class="nav-item dropdown">

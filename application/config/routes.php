@@ -55,3 +55,4 @@ $route['translate_uri_dashes'] = FALSE;
 $route['about'] = 'home/about';
 $route['how-to-apply'] = 'home/how_to_apply';
 $route['fee-structure'] = 'home/fee_structure';
+$route['refund-policy'] = 'home/refund_policy';

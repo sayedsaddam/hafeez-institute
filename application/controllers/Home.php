@@ -30,4 +30,10 @@ class Home extends CI_Controller{
         $data['body'] = 'fee-structure';
         $this->load->view('components/template', $data);
     }
+    // Refund policy
+    public function refund_policy(){
+        $data['title'] = 'Hafeez Institute of Medical Sciences | Refund Policy';
+        $data['body'] = 'refund-policy';
+        $this->load->view('components/template', $data);
+    }
 }
