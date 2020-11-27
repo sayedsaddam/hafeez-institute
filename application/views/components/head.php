@@ -25,7 +25,6 @@
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admissions</a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="<?= base_url('how-to-apply'); ?>">How to apply</a>
-                    <a class="dropdown-item" href="#">Eligibility Criteria</a>
                     <a class="dropdown-item" href="#">Tuition Fee</a>
                     <a class="dropdown-item" href="#">Refund Policy</a>
                     <a class="dropdown-item" href="#">Scholarships</a>
