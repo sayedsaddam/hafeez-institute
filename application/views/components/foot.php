@@ -8,10 +8,10 @@
             <div class="col-xl-lg-3 col-md-3 col-sm-10">
                 <h5>Quick Links</h5>
                 <ul style="list-style-type: none; padding-left: 3px; font-size: 15px;">
-                    <li><a href="" class="text-white">Home</a></li>
-                    <li><a href="" class="text-white">About</a></li>
-                    <li><a href="" class="text-white">Sitemap</a></li>
-                    <li><a href="" class="text-white">Affiliations</a></li>
+                    <li><a href="<?= base_url(); ?>" class="text-white">Home</a></li>
+                    <li><a href="<?= base_url('about'); ?>" class="text-white">About</a></li>
+                    <li><a href="<?= base_url('sitemap'); ?>" class="text-white">Sitemap</a></li>
+                    <li><a href="<?= base_url('affiliations'); ?>" class="text-white">Affiliations</a></li>
                 </ul>
             </div>
             <div class="col-xl-lg-3 col-md-3 col-sm-10">

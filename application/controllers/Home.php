@@ -24,4 +24,10 @@ class Home extends CI_Controller{
         $data['body'] = 'howto';
         $this->load->view('components/template', $data);
     }
+    // Fee structure
+    public function fee_structure(){
+        $data['title'] = 'Hafeez Institute of Medical Sciences | Fee Structure';
+        $data['body'] = 'fee-structure';
+        $this->load->view('components/template', $data);
+    }
 }

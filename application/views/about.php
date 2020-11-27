@@ -1,6 +1,6 @@
 <div class="jumbotron jumbotron-fluid bg-info">
     <div class="container">
-        <div class="row mt-4 pt-4">
+        <div class="row mt-4">
             <div class="col-xl-lg-12 col-md-12 col-sm-12">
                 <h1 class="display-4 font-weight-bold text-white">About Us | <small>We are Professional</small></h1>
             </div>
