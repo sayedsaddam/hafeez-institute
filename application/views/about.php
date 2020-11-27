@@ -1,9 +1,13 @@
-<div class="container">
-    <div class="row mt-4 pt-4">
-        <div class="col-xl-lg-12 col-md-12 col-sm-12 bg-info rounded">
-            <h1 class="display-4 font-weight-bold text-white">About Us | <small>We are Professional</small></h1>
+<div class="jumbotron jumbotron-fluid bg-info">
+    <div class="container">
+        <div class="row mt-4 pt-4">
+            <div class="col-xl-lg-12 col-md-12 col-sm-12">
+                <h1 class="display-4 font-weight-bold text-white">About Us | <small>We are Professional</small></h1>
+            </div>
         </div>
     </div>
+</div>
+<div class="container">
     <div class="row mt-4">
         <div class="col-xl-lg-6 col-md-6 col-sm-12 bg-info rounded text-white pt-4">
             <h5 class="font-weight-bold pt-4 mt-4">

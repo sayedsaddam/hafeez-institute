@@ -18,4 +18,10 @@ class Home extends CI_Controller{
         $data['body'] = 'about';
         $this->load->view('components/template', $data);
     }
+    // How to apply
+    public function how_to_apply(){
+        $data['title'] = 'Hafeez Institute of Medical Sciences | How to Apply';
+        $data['body'] = 'howto';
+        $this->load->view('components/template', $data);
+    }
 }
