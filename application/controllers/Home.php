@@ -36,4 +36,10 @@ class Home extends CI_Controller{
         $data['body'] = 'refund-policy';
         $this->load->view('components/template', $data);
     }
+    // Hospital Training
+    public function hospital_training(){
+        $data['title'] = 'Hafeez Institute of Medical Sciences | Hospital Training';
+        $data['body'] = 'hospital-training';
+        $this->load->view('components/template', $data);
+    }
 }
