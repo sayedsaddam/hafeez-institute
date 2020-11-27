@@ -15,24 +15,24 @@
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="d-block w-100" src="<?= base_url('assets/img/hero1.jpg'); ?>" alt="First slide">
+                        <img class="d-block w-100" src="<?= base_url('assets/img/slider1.jpg'); ?>" alt="First slide">
                         <div class="carousel-caption d-none d-md-block">
-                            <h5>Slide 1</h5>
-                            <p>Some text goes here...</p>
+                            <h5>Students sitting in the library</h5>
+                            <p>The students are allowed to go to library at anytime to read different books.</p>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="<?= base_url('assets/img/hero2.jpg'); ?>" alt="Second slide">
+                        <img class="d-block w-100" src="<?= base_url('assets/img/slider2.jpg'); ?>" alt="Second slide">
                         <div class="carousel-caption d-none d-md-block">
-                            <h5>Slide 2</h5>
-                            <p>Some text goes here...</p>
+                            <h5>Main Building - HIMS</h5>
+                            <p>Glimpse of the institute's main builing located in Peshawar-KP.</p>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="<?= base_url('assets/img/hero3.jpg'); ?>" alt="Third slide">
+                        <img class="d-block w-100" src="<?= base_url('assets/img/slider3.jpg'); ?>" alt="Third slide">
                         <div class="carousel-caption d-none d-md-block">
-                            <h5>Slide 3</h5>
-                            <p>Some text goes here...</p>
+                            <h5>Laboratory</h5>
+                            <p>A student of HIMS examining a microorganism through microscopic analysis.</p>
                         </div>
                     </div>
                 </div>
