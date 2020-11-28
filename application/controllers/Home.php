@@ -48,4 +48,8 @@ class Home extends CI_Controller{
         $data['body'] = 'registration';
         $this->load->view('components/template', $data);
     }
+    // 404 override page.
+    public function page_not_found(){
+        $this->load->view('not-found');
+    }
 }
