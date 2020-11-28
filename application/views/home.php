@@ -77,14 +77,33 @@
                 </div>
                 <div class="col-xl-lg-9 col-md-9 col-sm-9">
                    <p class="text-justify mt-4">With the Name of Almighty, the most Merciful and Beneficial! It is a matter of great pleasure today that the idea of Health Education in KPK is a clear vision for me and my team members. "To embark on a journey of success one needs the tools of preparedness, foresight and strategy. These lead to the path of growth and high quality operation. Realizing the responsibility on the shoulders of each member of HIMS, We Endeavour to be one of the most competitive Institutes in the Health Education.</p>
-                   <a class="btn btn-outline-light btn-sm mb-4" href="">Read More &raquo;</a>
+                   <a data-toggle="modal" data-target="#chairman_msg" class="btn btn-outline-light btn-sm mb-4" href="">Read More &raquo;</a>
+                   <!-- Modal -->
+                    <div class="modal fade" id="chairman_msg" tabindex="-1" role="dialog" aria-labelledby="chairman_msgLabel" aria-hidden="true">
+                        <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                            <div class="modal-header">
+                                <h4 class="modal-title text-dark" id="chairman_msgLabel">Chairman Message</h4>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                <p class="text-justify text-dark">Because Educational Institutes are not just hub of knowledge; they are also have a profound role in empowering community and creating a climate for socio-economic development.They are a role model for other institutions that are neceesary for growth and progress. Acquisition of resources for growth and progress. Acquistion of resources and their ownership do not derive economies or impact people anymore. Invesemtment in benfits and from institutes of higher education, however, impact socities and their economices. Higher education ensures unity, prosperty, peace, and civility of and in society; we need these properties in our society today more than we ever did.</p>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
         <div class="col-xl-lg-6 col-md-6 col-sm-10 bg-info text-white">
-            <h5 class="font-weight-bold mt-4">Aims and Objectives</h5>
+            <h5 class="font-weight-bold mt-4">Aims and Objective</h5>
             <p class="text-justify">Hafeez Institute of Medical Sciences, Peshawar has been established in 2007. The idea was concived by group of highly professional and dedicated healthcare professionals. The concept is to give standard allied Medical Education in the Khyber Pakhtunkhwa ensuring that students of his institute must have the mindset of a true professional. The institute is pioneer in developing competency-based programs in various disciplines of Health Sciences. Innovative approaches in medical programs include hands-on training, which is provided through diversified approaches at hospitals level. Based on the philosophy of “Medical technology-oriented comprehensive development with quality as priority and skill as basis”, and the fine education tradition and culture. The Institute is trying to demonstrate its unique features in Health Education and become a pioneer among the domestic professional universities of healthcare education. The majority of the students are participating in one or more highly successful programs in HIMS. Our programs, along the activates that provides career counseling and increase career awareness, constitute a solid core on which students can build a career in public health.</p>
-            <a class="btn btn-outline-light btn-sm mb-4" href="">Read More &raquo;</a>
+            <a class="btn btn-outline-light btn-sm mb-4" href="<?= base_url('about'); ?>">Read More &raquo;</a>
         </div>
     </div>
     <div class="row mb-4">

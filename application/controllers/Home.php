@@ -42,4 +42,10 @@ class Home extends CI_Controller{
         $data['body'] = 'hospital-training';
         $this->load->view('components/template', $data);
     }
+    // Registration
+    public function registration(){
+        $data['title'] = 'Hafeez Institute of Medical Sciences | Registration';
+        $data['body'] = 'registration';
+        $this->load->view('components/template', $data);
+    }
 }

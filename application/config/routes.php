@@ -57,3 +57,4 @@ $route['how-to-apply'] = 'home/how_to_apply';
 $route['fee-structure'] = 'home/fee_structure';
 $route['refund-policy'] = 'home/refund_policy';
 $route['hospital-training'] = 'home/hospital_training';
+$route['registration'] = 'home/registration';
