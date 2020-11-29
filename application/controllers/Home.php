@@ -54,6 +54,12 @@ class Home extends CI_Controller{
         $data['body'] = 'affiliation';
         $this->load->view('components/template', $data);
     }
+    // Contact.
+    public function contact(){
+        $data['title'] = 'Hafeez Institute of Medical Sciences | Contact';
+        $data['body'] = 'contact';
+        $this->load->view('components/template', $data);
+    }
     // 404 override page.
     public function page_not_found(){
         $this->load->view('not-found');

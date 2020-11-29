@@ -59,3 +59,4 @@ $route['refund-policy'] = 'home/refund_policy';
 $route['hospital-training'] = 'home/hospital_training';
 $route['registration'] = 'home/registration';
 $route['affiliation'] = 'home/affiliation';
+$route['contact'] = 'home/contact';
