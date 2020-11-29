@@ -16,7 +16,7 @@
             <p class="text-justify">
             Hafeez Institute of Medical Sciences is a poineer Institute of Khyber Pakhtunkhwa established in 2007. This institute is working under the Health Care Organization registered with Social Welfare Department Khyber Pakhtunkhwa. This is the first institute in Khyber Pakhtunkhwa that introduced F.Sc and Paramedical Program in the province. The idea was conceived by group of highly professional and dedicated healthcare professionals. The concept is to give standard medical education in Pakistan ensuring that students of this Institute must have the mindset of a true human professional. Hafeez Institute of Medical Sciences is affiliated with BISE Peshawar for F.Sc Medical Technologies, Khyber Pakhtunkhwa Medical Faculty (Health Department) for Diploma Courses, Khyber Medical University for Medical Laboratory Technology and Bacha Khan University for Master Programs and Paramedical Degree Programs and Doctor of Physical Therapy (DPT). The students of this institute availing practical/clinical training in different Government Hospital on the basis of the public private partnership.
             </p>
-            <img src="<?= base_url('assets/img/about-02.jpg'); ?>" class="img-fluid rounded" alt="About-hims">
+            <img src="<?= base_url('assets/img/about-02.jpg'); ?>" class="img-fluid rounded mb-4" alt="About-hims">
         </div>
         <div class="col-xl-lg-6 col-md-6 col-sm-12 pt-4">
             <h5 class="font-weight-bold">Aim</h5><hr>

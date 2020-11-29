@@ -80,19 +80,19 @@
                    <a data-toggle="modal" data-target="#chairman_msg" class="btn btn-outline-light btn-sm mb-4" href="">Read More &raquo;</a>
                    <!-- Modal -->
                     <div class="modal fade" id="chairman_msg" tabindex="-1" role="dialog" aria-labelledby="chairman_msgLabel" aria-hidden="true">
-                        <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+                        <div class="modal-dialog modal-lg modal-dialog-centered " role="document">
                             <div class="modal-content">
-                            <div class="modal-header">
-                                <h4 class="modal-title text-dark" id="chairman_msgLabel">Chairman Message</h4>
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <div class="modal-header bg-dark">
+                                <h4 class="modal-title" id="chairman_msgLabel">Chairman Message</h4>
+                                <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">&times;</span>
                                 </button>
                             </div>
-                            <div class="modal-body">
-                                <p class="text-justify text-dark">Because Educational Institutes are not just hub of knowledge; they are also have a profound role in empowering community and creating a climate for socio-economic development.They are a role model for other institutions that are neceesary for growth and progress. Acquisition of resources for growth and progress. Acquistion of resources and their ownership do not derive economies or impact people anymore. Invesemtment in benfits and from institutes of higher education, however, impact socities and their economices. Higher education ensures unity, prosperty, peace, and civility of and in society; we need these properties in our society today more than we ever did.</p>
+                            <div class="modal-body bg-dark">
+                                <p class="text-justify">Because Educational Institutes are not just hub of knowledge; they are also have a profound role in empowering community and creating a climate for socio-economic development.They are a role model for other institutions that are neceesary for growth and progress. Acquisition of resources for growth and progress. Acquistion of resources and their ownership do not derive economies or impact people anymore. Invesemtment in benfits and from institutes of higher education, however, impact socities and their economices. Higher education ensures unity, prosperty, peace, and civility of and in society; we need these properties in our society today more than we ever did.</p>
                             </div>
-                            <div class="modal-footer">
-                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <div class="modal-footer bg-dark">
+                                <button type="button" class="btn btn-info" data-dismiss="modal">Close</button>
                             </div>
                             </div>
                         </div>
