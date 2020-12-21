@@ -32,11 +32,11 @@
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Programs</a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#">BS (Hons) Programs</a>
-                    <a class="dropdown-item" href="#">Dr. of Physical Therapy (DPT)</a>
-                    <a class="dropdown-item" href="#">F.Sc Medical Technologies</a>
-                    <a class="dropdown-item" href="#">Diploma Medical Technolgies</a>
-                    <a class="dropdown-item" href="#">Short Courses</a>
+                    <a class="dropdown-item" href="<?= base_url('bs-programs'); ?>">BS (Hons) Programs</a>
+                    <a class="dropdown-item" href="<?= base_url('dpt'); ?>">Dr. of Physical Therapy (DPT)</a>
+                    <a class="dropdown-item" href="<?= base_url('fsc-medical-technologies'); ?>">F.Sc Medical Technologies</a>
+                    <a class="dropdown-item" href="<?= base_url('diploma-medical-technologies'); ?>">Diploma Medical Technolgies</a>
+                    <a class="dropdown-item" href="<?= base_url('short-courses'); ?>">Short Courses</a>
                 </div>
             </li>
             <li class="nav-item">

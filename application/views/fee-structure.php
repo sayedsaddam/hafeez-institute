@@ -9,7 +9,7 @@
 </div>
 <div class="container">
     <div class="row mt-4">
-        <div class="col-xl-lg-9 col-md-9 col-sm-12 mt-4">
+        <div class="col-xl-lg-9 col-md-9 col-sm-12 table-responsive mt-4">
             <h5 class="mb-4">The fee structure is listed below.</h5>
             <table class="table table-hover">
                 <tbody>
@@ -117,7 +117,7 @@
                 </tbody>
             </table>
         </div>
-        <div class="col-xl-lg-3 col-md-3 col-sm-12 mt-4 text-center">
+        <div class="col-xl-lg-3 col-md-3 col-sm-12 mt-4 text-center d-none d-sm-block">
             <img src="<?= base_url('assets/img/hims-logo.png'); ?>" alt="hims-logo">
             <img src="<?= base_url('assets/img/about-02.jpg'); ?>" class="img-fluid mt-4" alt="about-hims">
             <img src="<?= base_url('assets/img/about-03.jpg'); ?>" class="img-fluid mt-4" alt="about-hims">
