@@ -1,3 +1,15 @@
+<style>
+    .card{
+        border-radius: 0px;
+        border: none;
+    }
+    .card:hover{
+        -webkit-box-shadow: 15px 34px 28px -17px rgba(235,240,239,1);
+        -moz-box-shadow: 15px 34px 28px -17px rgba(235,240,239,1);
+        box-shadow: 15px 34px 28px -17px rgba(235,240,239,1);
+        transition: 0.4s;
+    }
+</style>
 <div class="jumbotron jumbotron-fluid text-center bg-info text-white">
   <div class="container">
     <h1 class="display-5 font-weight-bold">Hafeez Institute of Medical Sciences</h1>
