@@ -6,8 +6,8 @@
 </div>
 <div class="container-fluid">
     <div class="row">
-        <div class="col-xl-lg-6 col-md-8 col-sm-12">
-            <div id="carouselExampleIndicators" class="carousel slide mb-4" data-ride="carousel">
+        <div class="col-xl-lg-5 col-md-5 col-sm-12">
+            <div id="carouselExampleIndicators" class="carousel slide mb-3" data-ride="carousel">
                 <ol class="carousel-indicators">
                     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -45,24 +45,52 @@
                     <span class="sr-only">Next</span>
                 </a>
             </div>
+            <div class="card bg-success text-light">
+                <div class="card-body">
+                    <h5 class="card-title">News Title</h5>
+                    <p class="card-text">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem vero neque placeat dolorem.
+                    </p>
+                </div>
+            </div>
         </div>
-        <div class="col-xl-lg-6 col-md-4 col-sm-12">
-            <div class="card">
+        <div class="col-xl-lg-4 col-md-4 col-sm-12">
+            <div class="card mb-3">
                 <div class="card-body">
                     <h5 class="card-title">News Section</h5>
                     <p class="card-text">Admission notifications will be diplayed here...</p>
                 </div>
-            </div><br>
-            <div class="card">
+            </div>
+            <div class="card mb-3">
                 <div class="card-body">
                     <h5 class="card-title">News Section</h5>
                     <p class="card-text">Admission notifications will be displayed here...</p>
                 </div>
-            </div><br>
-            <div class="card">
+            </div>
+            <div class="card mb-3">
                 <div class="card-body">
                     <h5 class="card-title">News Section</h5>
                     <p class="card-text">Admission notifications will be displayed here...</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-xl-lg-3 col-md-3 col-sm-12">
+            <div class="card bg-info text-light mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">New Title</h5>
+                    <p class="card-text">Some text will go here...</p>
+                </div>
+            </div>
+            <div class="card bg-info text-light mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">New Title</h5>
+                    <p class="card-text">Some text will go here...</p>
+                </div>
+            </div>
+            <div class="card bg-info text-light mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">New Title</h5>
+                    <p class="card-text">Some text will go here...</p>
                 </div>
             </div>
         </div>
