@@ -29,7 +29,7 @@
                     <div class="carousel-item active">
                         <img class="d-block w-100" src="<?= base_url('assets/img/slider1.jpg'); ?>" alt="First slide">
                         <div class="carousel-caption d-none d-md-block">
-                            <h5>Students sitting in the library</h5>
+                            <h5>Main library</h5>
                             <p>The students are allowed to go to library at anytime to read different books.</p>
                         </div>
                     </div>
